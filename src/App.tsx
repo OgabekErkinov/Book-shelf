@@ -1,12 +1,12 @@
 import Layout from "./layouts/Layout"
-import Auth from "./pages/Auth"
+import Home from "./pages/Home"
 
 function App() {
 
   return (
     <>
     <Layout>
-      <Auth/>
+      <Home/>
     </Layout>
     </>
   )
